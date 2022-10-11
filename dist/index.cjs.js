@@ -3100,7 +3100,7 @@ var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { ba
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#100F23", backgroundDisabled: "#423d37", contrast: "#FFFFFF", invertedContrast: "#261e13", input: "#5a4d3f", 
     // inputBorder: "#cccccc",    
-    inputSecondary: "#cccccc", tertiary: "#473e35", text: "#fff", textDisabled: "#716a61", textSubtle: "#fff", activeButton: "#397f49", borderColor: "#2b2654", card: "#03001c", nav: "#130119", priceBackground: "#ffb948", priceBorder: "#2B373D", gradients: {
+    inputSecondary: "#cccccc", tertiary: "#473e35", text: "#fff", textDisabled: "#716a61", textSubtle: "#fff", activeButton: "#397f49", borderColor: "#2b2654", card: "transparent", nav: "#130119", priceBackground: "#ffb948", priceBorder: "#2B373D", gradients: {
         bubblegum: "linear-gradient(139.73deg, #893e92 0%, #3a0e40 100%)",
     } });
 

@@ -73,7 +73,6 @@ const Menu: React.FC<NavProps> = ({
   currentLang,
   cakePriceUsd,
   links,
-  profile,
   children,
 }) => {
   const { isXl } = useMatchBreakpoints();
