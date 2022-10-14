@@ -29,12 +29,6 @@ export const links = [
     href: "/syrup",
   },
   {
-    label: "Certik Audit (In-Progress)",
-    icon: "ShieldIcon",
-    href: "https://twitter.com/SatoshicryptoF2/status/1367218225310818308",
-    target: "_blank",
-  },
-  {
     label: "Bush",
     icon: "BushIcon",
     href: "/bush",
@@ -115,11 +109,11 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://SatoshiCryptoDefi.gitbook.io/satoshicrypto/",
+        href: "https://opensale.gitbook.io/opensale/",
       },
       {
         label: "Blog",
-        href: "https://satoshicrypto.medium.com/",
+        href: "https://opensale.medium.com/",
       },
     ],
   },
@@ -129,12 +123,12 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/satoshicryptofinance",
+    href: "https://t.me/GetFit2EarnSwap",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/SatoshicryptoF2",
+    href: "https://twitter.com/opensalefinance",
   },
 ];
 
